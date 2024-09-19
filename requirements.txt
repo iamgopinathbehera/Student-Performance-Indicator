@@ -5,8 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 Flask
-src
-os
-
+wheel
 #-e .

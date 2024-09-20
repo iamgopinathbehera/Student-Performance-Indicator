@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to the Prediction App</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .welcome-container {
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 100%;
+            max-width: 800px;
+            transition: all 0.3s ease;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            background-color: #ff5722;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #ff784e;
+        }
+
+        @media (min-width: 768px) {
+            .welcome-container {
+                max-width: 900px;
+                padding: 50px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .welcome-container {
+                max-width: 1000px;
+                padding: 60px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 28px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+
+            .btn {
+                padding: 12px 24px;
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="welcome-container">
+        <h1>Welcome to the Student Performance Predictor</h1>
+        <p>
+            Discover how various factors like gender, parental education, and test preparation can impact student performance. Use this app to predict your exam scores based on these indicators.
+        </p>
+        <a href="/predictdata" class="btn">Start Prediction</a>
+    </div>
+</body>
+
+</html>

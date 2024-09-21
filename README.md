@@ -18,7 +18,6 @@
 
 This project aims to predict student performance using various machine learning techniques. The repository contains code for data ingestion, transformation, model training, and evaluation.
 
-
 ## 📋 Table of Contents
 - [Introduction](#-introduction)
 - [Features](#-features)
@@ -49,6 +48,9 @@ The Student Performance Indicator project is designed to help educators and inst
 - **Jupyter Notebook**: Interactive computing environment
 - **Docker**: Containerization platform
 - **GitHub**: Version control and collaboration
+- **Flask**: Web framework for the API
+- **AWS**: Cloud platform for deployment
+- **Azure**: Additional cloud services and machine learning capabilities
 
 ## 💻 Installation
 
@@ -67,18 +69,19 @@ pip install -r requirements.txt
 3. **Model Training**: Train machine learning models to predict student performance.
 4. **Evaluation**: Evaluate the models using various metrics.
 5. **Hyperparameter Tuning**: Optimize the model parameters for better performance.
-6. **Deployment**: Deploy the model for real-time predictions.
-
+6. **Deployment**: Deploy the model for real-time predictions using Flask, AWS, and Azure.
 
 
 ## 📬 Contact
-Feel free to reach out:
+
+For any questions, feel free to reach out:
 
 - **Name**: Gopinath Behera
-- **Email**: beheragopinath376@.com
+- **Email**: beheragopinath376.com
 - **GitHub**: [iamgopinathbehera](https://github.com/iamgopinathbehera)
 
 <div align="center">
 
+Made with ❤️ 
 
 </div>

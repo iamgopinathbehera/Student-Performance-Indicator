@@ -77,7 +77,7 @@ pip install -r requirements.txt
 For any questions, feel free to reach out:
 
 - **Name**: Gopinath Behera
-- **Email**: beheragopinath376.com
+- **Email**: beheragopinath376@gmail.com
 - **GitHub**: [iamgopinathbehera](https://github.com/iamgopinathbehera)
 
 <div align="center">

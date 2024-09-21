@@ -65,13 +65,7 @@ pip install -r requirements.txt
 5. **Hyperparameter Tuning**: Optimize the model parameters for better performance.
 6. **Deployment**: Deploy the model for real-time predictions.
 
-## 👥 Contributing
 
-Contributions are welcome! Please read the contributing guidelines for more details.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📬 Contact
 
@@ -83,6 +77,5 @@ For any questions or suggestions, feel free to reach out:
 
 <div align="center">
 
-Made with ❤️ by Krish Naik Sir
 
 </div>

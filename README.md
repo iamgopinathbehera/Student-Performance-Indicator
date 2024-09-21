@@ -68,8 +68,7 @@ pip install -r requirements.txt
 
 
 ## 📬 Contact
-
-For any questions or suggestions, feel free to reach out:
+Feel free to reach out:
 
 - **Name**: Gopinath Behera
 - **Email**: beheragopinath376@.com

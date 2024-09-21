@@ -44,7 +44,7 @@ The Student Performance Indicator project is designed to help educators and inst
 - **pandas**: Data manipulation and analysis
 - **scikit-learn**: Machine learning library
 - **Jupyter Notebook**: Interactive computing environment
-- **Docker**: Containerization platform
+- **Docker**: Containerization platform 
 - **GitHub**: Version control and collaboration
 - **Flask**: Web framework for the API
 - **AWS**: Cloud platform for deployment
